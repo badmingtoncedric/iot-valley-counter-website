@@ -1,0 +1,10 @@
+# Atom SFtp
+.ftpconfig
+
+# Npm
+/node_modules/
+
+# App build & tools
+/dist/
+/coverage/
+
